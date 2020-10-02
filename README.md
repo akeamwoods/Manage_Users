@@ -4,4 +4,4 @@ Please use chrome when testing as I didn't have enough time to test/optimise for
 
 ### Demo: https://akeamwoods.github.io/Manage_Users/
 
-#+html: <p align="center"><img src="https://imgur.com/dJRQZOp" />test</p>
+#+html: <p align="center"><img src="https://i.imgur.com/dJRQZOp.png" />test</p>
