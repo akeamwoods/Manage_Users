@@ -4,7 +4,7 @@ Please use chrome when testing as I didn't have enough time to test/optimise for
 
 ### Demo: https://akeamwoods.github.io/Manage_Users/
 
-<img src="https://i.imgur.com/dJRQZOp.png" />
+<img align="center" src="https://i.imgur.com/dJRQZOp.png" />
 <img src="https://i.imgur.com/Ahf38x6.png" />
 <img src="https://i.imgur.com/hCS4s91.png" />
 <img src="https://i.imgur.com/BQlWQ2v.png" />
