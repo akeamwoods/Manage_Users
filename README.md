@@ -3,21 +3,33 @@
 Please use chrome when testing as I didn't have enough time to test/optimise for other browsers. This is also not mobile friendly due to time constraints.
 
 ### Demo: https://akeamwoods.github.io/Manage_Users/
-### Wireframes
-Account Registration
+
+## Wireframes
+
+# Account Registration
 
 <img src="https://i.imgur.com/dJRQZOp.png" />
 
-User Login
+# User Login
 
 <img src="https://i.imgur.com/Ahf38x6.png" />
-User Management
+
+# User Management
+
 <img src="https://i.imgur.com/hCS4s91.png" />
-Viewing Profile
+
+# Viewing Profile
+
 <img src="https://i.imgur.com/BQlWQ2v.png" />
-Editing Profile
+
+# Editing Profile
+
 <img src="https://i.imgur.com/22qcv9Z.png" />
-Settings Page
+ 
+# Settings Page
+
 <img src="https://i.imgur.com/5Lxp0Vy.png" />
-Setting Page Date Picker Example
+
+# Setting Page Date Picker Example
+
 <img src="https://i.imgur.com/nky7BXs.png" />
